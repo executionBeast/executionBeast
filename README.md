@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @executionBeast My Name is Sujit Kumar
+- 👋 Hi, I’m @executionBeast 
 - 👀 I’m interested in ...BlockChain Technology and Software Development 
 - 🌱 I’m currently learning ...BlockChain Technology and I want to be a Full Stack BlochChain Developer 
 - 💞️ I’m looking to collaborate on ...Open Source Web Projects and Backend Technologies
