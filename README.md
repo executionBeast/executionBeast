@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...BlockChain Technology and I want to be a Full Stack BlochChain Developer 
 - 💞️ I’m looking to collaborate on ...Open Source Web Projects and Backend Technologies
 - 📫 You can reach out me via ...
--       Mob: 7052070747
+- 
 -       email: raos92249@gmail.com
 -       LinkedIn: https://www.linkedin.com/in/sujit-kumar-74b9aa203
 -       Instagram: https://www.instagram.com/executionbeast/
